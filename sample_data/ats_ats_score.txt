@@ -1,0 +1,36 @@
+**Match Score:** 18%
+
+**Missing Keywords:**
+- Senior Full Stack Developer
+- Django frameworks
+- React
+- Front-End Development
+- Back-End Web Development
+- Cascading Style Sheets (CSS)
+- Software Development principles
+- Best practices (Software Development)
+- Building and maintaining scalable web applications
+- Optimizing applications
+- Integrating third-party APIs (in web development context)
+- Leading technical discussions
+- Mentoring junior developers
+- Clean, scalable code
+- Modern technologies (in the context of web development stack)
+- User-focused solutions
+- Communication skills (as an explicit skill)
+- Work effectively in a team (as an explicit skill)
+- Leadership role
+
+**Keywords Found:**
+- Python
+- SQL
+- Database management
+- Debugging
+- Technical troubleshooting
+- Git
+- GitHub
+- Bachelor’s Degree (in a related field: Data Science and Mathematics)
+- Collaboration (implied from experience)
+
+**Final Thoughts:**
+This resume is a very poor match for the Senior Full Stack Developer position, as the candidate's expertise lies in AI-powered e-commerce and data analysis, not web development with Django and React. Key technologies and domain experience required for the role are almost entirely absent. The candidate should not apply for this role and should instead seek positions aligned with their e-commerce, AI, or data science background.

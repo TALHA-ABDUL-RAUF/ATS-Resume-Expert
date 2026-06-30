@@ -1,0 +1,24 @@
+About the job
+Company Description
+
+Orbit Internet Service Provider is dedicated to delivering high-quality, reliable, and innovative communications solutions to individuals and businesses. With a mission to connect communities and bridge the digital divide, Orbit ISP provides cutting-edge internet services and customer-centric support. Emphasizing innovation and advanced technologies, Orbit continuously strives to meet the evolving needs of its customers. The company prioritizes creating an inclusive workplace culture and providing opportunities for professional growth.
+
+
+
+Role Description
+
+This is a full-time on-site role for a Senior Full Stack Developer (Python/Django/React) based in the Faisalabad District. In this role, you will design, develop, and maintain robust front-end and back-end systems using modern technologies. Responsibilities include writing clean, scalable code, debugging and optimizing applications, integrating third-party APIs, leading technical discussions, and mentoring junior developers. Collaboration with cross-functional teams to deliver high-quality, user-focused solutions is a key aspect of this position.
+
+
+
+Qualifications
+
+Expertise in Back-End Web Development and Full-Stack Development, with strong skills in Python and Django frameworks
+Proficiency in Front-End Development, including experience with React and Cascading Style Sheets (CSS)
+Solid foundation in Software Development principles and best practices
+Experience with building and maintaining scalable web applications
+Excellent problem-solving, debugging, and technical troubleshooting abilities
+Strong collaboration and communication skills, with the ability to work effectively in a team
+Knowledge of database management and API integration
+Bachelor’s Degree in Computer Science, Software Engineering, or a related field (or equivalent experience)
+Experience in a leadership role or mentoring team members is a plus.
