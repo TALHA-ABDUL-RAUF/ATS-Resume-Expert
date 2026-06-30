@@ -202,46 +202,21 @@ GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
 ---
 
 # 📸 Screenshots
+## Home Page
 
-## 🏠 Home Page
+![Home](assets/home.png)
 
-> Add screenshot
+## ATS Score
 
-```
-assets/home.png
-```
+![ATS Score](assets/ats_score.png)
 
----
+## Resume Review
 
-## 📊 ATS Score
+![Resume Review](assets/review.png)
 
-> Add screenshot
+## Resume Improvement
 
-```
-assets/ats_score.png
-```
-
----
-
-## 👨‍💼 Resume Review
-
-> Add screenshot
-
-```
-assets/review.png
-```
-
----
-
-## 💡 Resume Improvement
-
-> Add screenshot
-
-```
-assets/improve.png
-```
-
----
+![Resume Improvement](assets/improve.png)
 
 # 📈 Future Enhancements
 
